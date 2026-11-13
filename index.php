@@ -5,6 +5,6 @@
   <title>Site da luanelinda</title>
 </head>
 <body>
-    <?php echo "<h1>Olá, mundo!</h1>" ?>
+    <?php echo "<h1> Olá, mundo!</h1>" ?>
 </body>
 </html>
